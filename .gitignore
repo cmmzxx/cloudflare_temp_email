@@ -134,7 +134,7 @@ dist
 .pnp.*
 
 .wrangler
-wrangler.toml
+# wrangler.toml
 .dev.vars
 pnpm-lock.yaml
 
